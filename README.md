@@ -117,14 +117,3 @@ Inferences
 
 **By Chinmay Singh**
 
-# **2**
-# nd
- **Year undERGraudte STUDent**
-
-# **Department of chemical engineering**
-
-# **iit kharagpur**
-
-# **Contact Number :- 9897313435**
-
-# **Email ID:-** [**chinmaysingh.iitkgp@gmail.com**](mailto:chinmaysingh.iitkgp@gmail.com)
